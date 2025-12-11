@@ -1,0 +1,12 @@
+/* base styles */
+:root {
+    --color-background: #ffffff;
+    --color-text: #2c3e50;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
